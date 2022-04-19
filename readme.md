@@ -4,7 +4,7 @@ This is an implementation of WhatsApp-web.js which  has been customised for samp
 
 ## Prerequisites
 
-Latest Node is required
+Latest Node.js is required
 
 ## Installation
 
