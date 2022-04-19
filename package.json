@@ -1,0 +1,18 @@
+{
+  "name": "whatsweb-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "mysql2": "^2.3.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.5"
+  },
+  "scripts": {
+    "setup": "npm install whatsapp-web.js && npm install qrcode-terminal && npm install axios && npm install mysql2",
+    "start": "node app.js"
+  },
+  "author": "lovish chhabra",
+  "license": "MIT"
+}
